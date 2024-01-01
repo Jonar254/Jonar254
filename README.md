@@ -9,6 +9,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonar254&show_icons=true&locale=en&layout=compact" alt="jonar254" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonar254&show_icons=true&locale=en" alt="jonar254" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonar254&" alt="jonar254" /></p>
