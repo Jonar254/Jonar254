@@ -12,6 +12,3 @@
 
 
 
-![snake gif](https://github.com/Jonar254/Jonar254/blob/output/github-contribution-grid-snake.svg)
-
-
