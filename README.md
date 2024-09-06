@@ -60,7 +60,6 @@
   </a> 
 </p>
 
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jonar254&theme=highcontrast&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonar254&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
